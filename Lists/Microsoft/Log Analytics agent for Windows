@@ -2,3 +2,5 @@
 *.oms.opinsights.azure.com
 *.blob.core.windows.net
 *.agentsvc.azure-automation.net
+*.azure-automation.net
+
