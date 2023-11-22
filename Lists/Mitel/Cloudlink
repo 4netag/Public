@@ -1,3 +1,7 @@
+#TCP 5061 
+#Dieser Port wird verwendet, um SIP-Telefone in Media Services mit den 
+#folgenden Hosts zu verbinden:
+
 media.us-east-1.us.mitel.io 
 media.us-west-2.us.mitel.io
 media.eu-west-1.eu.mitel.io
