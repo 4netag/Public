@@ -1,3 +1,7 @@
+# URLs
+
+[Link](https://learn.microsoft.com/en-us/azure/azure-arc/network-requirements-consolidated?tabs=azure-cloud)
+
 aka.ms
 download.microsoft.com
 packages.microsoft.com
