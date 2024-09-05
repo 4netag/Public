@@ -18,3 +18,4 @@ azgn*.servicebus.windows.net
 dc.services.visualstudio.com
 *.switzerlandnorth.arcdataservices.com
 www.microsoft.com/pkiops/certs
+login.mso.msidentity.com
