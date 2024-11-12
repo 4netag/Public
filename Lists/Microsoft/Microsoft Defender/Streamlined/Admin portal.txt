@@ -1,0 +1,11 @@
+# Defender Portal URLs: Lists the URL endpoints required for administrative/security operations access the Microsoft Defender Security portals. These do not need to be accessible to all devices.
+
+
+*.blob.core.windows.net 
+"https://*.microsoftonline-p.com
+https://secure.aadcdn.microsoftonline-p.com
+https://static2.sharepointonline.com
+https://login.microsoftonline.com"
+"https://*.securitycenter.windows.com
+https://*.api.security.microsoft.com"
+https://security.microsoft.com
