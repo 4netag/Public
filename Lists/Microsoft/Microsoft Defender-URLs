@@ -1,5 +1,6 @@
 # Endpoint/URL
 
+mdav-eu.endpoint.security.microsoft.com
 crl.microsoft.com
 ctldl.windowsupdate.com
 www.microsoft.com/pkiops/*
