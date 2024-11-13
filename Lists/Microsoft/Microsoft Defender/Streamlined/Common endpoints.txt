@@ -29,7 +29,7 @@ crl.microsoft.com
 
 login.microsoftonline.com
 *.wns.windows.com
-login.live.com"
+login.live.com
 *.security.microsoft.com
 *.blob.core.windows.net/networkscannerstable/*
 login.windows.net
