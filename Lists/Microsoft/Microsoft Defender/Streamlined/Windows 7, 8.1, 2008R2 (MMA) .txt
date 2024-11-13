@@ -1,1 +1,20 @@
+# MMA URLs: Lists the additional URL endpoint services required for devices using Defender for Endpoint via the Microsoft Monitoring Agent (Windows 7, Windows 8.1, Windows Server 2008 R2, 
+servers not upgraded to Unified Agent
+
+winatp-gw-aue.microsoft.com
+winatp-gw-aus.microsoft.com
+winatp-gw-neu.microsoft.com
+winatp-gw-weu.microsoft.com
+winatp-gw-neu3.microsoft.com
+winatp-gw-weu3.microsoft.com
+winatp-gw-uks.microsoft.com
+winatp-gw-ukw.microsoft.com
+winatp-gw-cus.microsoft.com
+winatp-gw-eus.microsoft.com
+winatp-gw-cus3.microsoft.com
+winatp-gw-eus3.microsoft.com
+"*.oms.opinsights.azure.com
+*.oms.opinsights.azure.com
+*.blob.core.windows.net"
+
 
