@@ -1,0 +1,35 @@
+# URLs used for core functionality
+# URLs used for updates
+# URLs used for certificate validation checks
+# Other
+
+*.endpoint.security.microsoft.com
+"*.smartscreen-prod.microsoft.com
+*.smartscreen.microsoft.com"
+"*.smartscreen.microsoft.com
+*.checkappexec.microsoft.com
+*.urs.microsoft.com
+*.dm.microsoft.com
+
+packages.microsoft.com
+officecdn-microsoft-com.akamaized.net
+"go.microsoft.com
+definitionupdates.microsoft.com
+https://www.microsoft.com/security/encyclopedia/adlpackages.aspx
+*.update.microsoft.com
+*.delivery.mp.microsoft.com
+*.windowsupdate.com
+*.download.windowsupdate.com
+*.download.microsoft.com
+
+www.microsoft.com/pkiops/*
+www.microsoft.com/pki/*"
+ctldl.windowsupdate.com
+crl.microsoft.com
+
+login.microsoftonline.com
+*.wns.windows.com
+login.live.com"
+"*.security.microsoft.com
+*.blob.core.windows.net/networkscannerstable/*
+login.windows.net
