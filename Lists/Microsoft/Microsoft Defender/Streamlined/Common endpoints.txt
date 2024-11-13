@@ -4,6 +4,7 @@
 # Other
 
 *.endpoint.security.microsoft.com
+edr-neu.eu.endpoint.security.microsoft.com
 *.smartscreen-prod.microsoft.com
 *.smartscreen.microsoft.com
 *.smartscreen.microsoft.com
