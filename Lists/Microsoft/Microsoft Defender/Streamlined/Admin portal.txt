@@ -1,4 +1,5 @@
-# Defender Portal URLs: Lists the URL endpoints required for administrative/security operations access the Microsoft Defender Security portals. These do not need to be accessible to all devices.
+# Defender Portal URLs: Lists the URL endpoints required for administrative/security operations access the Microsoft Defender Security portals. 
+# These do not need to be accessible to all devices.
 
 
 *.blob.core.windows.net 
