@@ -1,1 +1,7 @@
-
+*.mp.microsoft.com
+*.update.microsoft.com
+*.windowsupdate.com
+a1-backend-packages-434810787744-eu-central-1.s3.amazonaws.com
+eu-cdn-action1-com.b-cdn.net
+eu-cdn.action1.com
+server.eu.action1.com
